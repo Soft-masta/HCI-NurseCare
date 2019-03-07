@@ -1,0 +1,37 @@
+Objetivo del sistema
+El sistema tiene como objetivo principal ayudar a los adultos mayores y personas en estado de enfermedad  
+que se encuentren en la necesidad de solicitar ayuda para su cuidado proporcionando un medio intuitivo 
+de fácil acceso, que a través de una sencilla comprobación  ofrecerá personas confiables y calificadas 
+para las más comunes áreas de demanda  en cuidado personal.
+
+
+Requerimientos Funcionales
+•	Autentificación de cuidador.
+•	Registro de usuarios.
+•	Solicitud de servicio.
+•	Consultar Información del cuidador.
+•	Registrar contrato del servicio.
+•	Cancelación de un servicio.
+•	Darse de baja como cuidador.
+•	Estado de disponibilidad del cuidador.
+•	Modificación de la información de perfil.
+•	Contratación por lapsos de tiempo.
+•	Denuncia de usuario.
+•	Gestión de pagos.
+•	Auditoría del Sistema.
+
+
+Métrica de contribución.
+Al ser un trabajo escolar tomamos la decisión de hacer un reparto equitativo de las tareas tanto en la carga 
+laboral como en el aprovechamiento en la materia  para esto dividimos el proyecto en cuatro etapas, a cada una
+de ellas  fue delegado un  integrante del equipo con mejores aptitudes y experiencia para brindar soporte a 
+quienes tengan dudas durante su participación en esa etapa, esta  organización se describe a continuación:
+
+1.	Identificar necesidades y establecer requisitos ->  asignado a Héctor Burgos 
+2.	Desarrollar diseños alternativos.  -> asignado a Esthefany Mézquita
+3.	Construir versiones interactivas de los diseños. -> asignado a Gerardo Vázquez
+4.	Evaluar diseños. -> asignado a Erick Lechuga
+
+Estas etapas serán iteradas 4 veces para que cada uno pueda experimentar 
+al menos una vez las tareas y necesidades de esa etapa. De estas iteraciones obtendremos prototipos 
+esperando con ello llegar al mejor  resultado  final.
