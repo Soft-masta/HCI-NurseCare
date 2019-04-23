@@ -1,0 +1,18 @@
+El artículo habla sobre la interacción que tienen los usuarios con un ambiente de
+realidad virtual, más específicamente respecto a cómo enfocan la vista al
+ambiente por medio del HMD (Head Mounted Displays) y como el estudio de esto
+puede beneficiar al desarrollo de programas que utilicen la realidad virtual.
+
+Se comenta que el poder manejar un rastreador ocular en un HMD es demasiado
+caro y por lo tanto no es práctico para la mayoría de los desarrolladores ni
+consumidores, por lo que se realizó un estudio para averiguar el ángulo que
+los usuarios de VR suelen tener respecto a vista.
+
+Ya que el estudio mostro que los usuarios suelen mantener los ojos al frente
+y no los mueven si no que mueven la cabeza, esto debería poder ayudar al desarrollo
+de programas, pero en mi opinión, una de las razones de que se dé esto podría ser 
+el hecho de que subconscientemente sabemos que tenemos algo en la cabeza por 
+mas inmersos que estemos en el ambiente, lo cual dicta nuestra visión mientras
+tenemos el HMD puesto.
+
+

@@ -1,0 +1,26 @@
+EL artículo trata sobre el caso especifico de un ambiente de realidad virtual
+en el que se ejemplifica el gran problema de seguridad que conlleva el simple
+ingreso de un PIN para acceder a datos personales o cuentas privadas,
+ya que el hecho de que se tenga que interactuar con un teclado virtual
+mientras otras personas puedan verlo, permite el robo de información de
+manera muy simple ya que el movimiento físico delata la combinación de 
+digitos.
+
+Posteriormente procede a explicarnos diferentes soluciones planteadas y como
+estas llegan a ser muy buenas pero dificiles de implementar o simplemente
+son ineficientes. 
+
+Por último proceden a explicarnos la solución por la que se optó, que es
+algo tan simple como modificar la posición de los dígitos en el teclado virtual,
+cosa que incrementa la seguridad de forma impresionante, esto basado en pruebas.
+
+Es impresionante pensar que problemas tan grandes puedan tener soluciones
+tan simples, y si algo me ha enseñado esto, es que si hay un problema que
+pueda surgir de la interacción entre el usuario y el sistema, hay que buscar
+una forma de lograr que no sea demasiado complicado para el usuario y que
+a veces la solución puede ser algo muy simple, solo hace falta la capacidad
+de pensar en esa solución.
+
+Para concluir, en el campo de IHC, es importante tomar en cuenta al usuario
+de tal forma que no afectemos su experiencia de forma negativa, en este caso
+particular, respetar su immersión en el ambiente virtual. 

@@ -1,0 +1,21 @@
+El artículo habla sobre el uso de la realidad virtual en un entorno de aprendizaje
+y sus capacidades para ayudar a los estudiantes a aprender mejor.
+
+El artículo menciona como los usuarios interactuan con el programa si no
+tienen instrucciones claras mas allá de "¿Cómo harías que el objeto se agrande?"
+y que generalmente los usuarios tienden a una conclusión, con la cual se
+trabaja luego.
+
+También es notable que si bien este estudio se desarrolló enfocado especificamente
+en estudiantes de física, las aplicaciones prácticas de la realidad aumentada
+se pueden extender a otros campos con mucha facilidad, especialmente en las
+escuelas, ya que aumenta la capacidad de aprendizaje de los estudiantes.
+
+En conclusión, podemos apreciar que la interacción de los usuarios con las
+aplicaciones (más especificamente con los objetos virtuales) tiende a ser 
+compartida entre los usuarios, lo cual genera que se intente aprovechar esa
+interacción generalizada para que las aplicaciones sean intuitivas para los
+usuarios. Esto también me pone a pensar en que algunas aplicaciones de hecho
+requieran que se investiguen las posibles interacciones con ella aun si estas
+parecen simples, ya que podría ser que esta sea algo muy común, pero sea 
+desarrollada por gente que no pensó en esas interacciones obvias.
