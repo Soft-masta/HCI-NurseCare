@@ -1,0 +1,21 @@
+El artículo nos explica que el VR nos ha abierto las puertas a la posibilidad de
+comunicarnos con otras personas en un entorno virtual, lo cual nos permite una
+interacción más directa a pesar de las distancias, pero también nos habla de que 
+hace falta investigar las diferencias entre personas usando VR en lugares diferentes
+o en el mismo lugar.
+
+Posteriormente se nos explica que se realizó un estudio en el que pusieron a personas
+por parejas a realizar pequeñas tareas en un entorno virtual, tanto en el mismo cuarto
+como en cuartos separados en diferentes edificios.
+
+La conclusión del estudio fue que no hay una diferencia significativa entre si los
+usuarios están en el mismo lugar o en diferentes lugares más allá de los tiempos de
+respuesta debido a la latencia.
+
+Con esto podemos observar que la inmersión en los entornos de VR es tal, que no
+importa la distancia física de las personas, éstas sienten que siguen teniendo una
+interacción local desde la comodidad de donde están en ese momento.
+
+Podemos concluir que la IHC con los entornos de VR son como mínimo, bastante inmersivos
+por lo se debe apuntar a mejorar aún más la tecnología de VR para permitir su uso en otras
+aplicaciones.
