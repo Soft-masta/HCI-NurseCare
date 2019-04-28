@@ -1,0 +1,24 @@
+Este artículo nos habla sobre la idea de que los programas que usan una especie de
+maniquí virtual para interactuar con los usuarios podrían ser más útiles si 
+fueran percibidos más "naturalmente", haciendo que los usuarios se sientan mas
+cómodos con ellos.
+
+Dicho esto, la idea genera que se realice un estudio para revisar si la animación 
+de respiración podría ayudar a mejorar la personificación más humana de estos "maniquíes",
+y con esto poder lograr una mejora entre la interacción del usuario y el sistema.
+
+Realizando el estudio se dieron cuenta que esto no causaba ninguna diferencia notable
+en el sentido de que los usuarios a los que se les realizaron las pruebas no notaron
+ningún cambio significativo en el maniquí teniendo este la animación de respiración.
+
+Con esto podemos concluir que alcanzar una mejoría significativa entre este tipo
+de interacciones con el usuario, será necesaria más investigación, probablemente más
+a fin de mejorar la calidad de estos maniquíes en términos de apariencia, así también 
+como agregar detalles que los hagan parecer más humanos, una propuesta más que se 
+dio fue agregar un pequeño sonido de respiración para acompañar la animación, mostrando
+las posibles soluciones que son solo pequeños detalles. Aun así, esto será un 
+desarrollo complicado, porque medir la "humanidad" de un bot/maniquí no es algo tan
+trivial.
+
+
+27/04/2019
