@@ -1,0 +1,25 @@
+Este artículo nos presenta la idea de cómo ha avanzado la tecnología de AR y VR,
+permitiendo que esta sea más accesible a más público. Esto lo comentan con el fin 
+de dar a entender que esto permite el uso de esta tecnología en campos más amplios,
+entre ellos la rehabilitación, mas específicamente de personas que han perdido miembros
+y como esto puede ayudarlos a adaptarse a sus nuevos miembros protésicos.
+
+Esto por una parte es algo impresionante. Permitiría que la rehabilitación de estos
+pacientes sea más rápida y cómoda para ellos, encima que también se comenta que ayuda 
+a pacientes con síndrome de miembro fantasma, ya que engaña al cerebro a pensar que
+aun recibe señales de ese miembro lo cual mitiga el dolor. Por otro lado, estas 
+interfaces presentan complicaciones, más que nada, ayudar a los usuarios a controlas
+el miembro en el entorno VR/AR.
+
+También es interesante comentar que esto también funciona a la inversa y una persona
+con todos sus miembros podría experimentar lo que es la falta de un miembro especifico
+para generar empatía con los pacientes y esto puede ayudar a acercarlos y entenderlos.
+
+Esto presenta un gran reto, lograr que los usuarios puedan interactuar con los nuevos
+miembros o no utilizarlos en caso de tenerlos puede presentar complicaciones y actualmente
+solo pueden lograr que los brazos abran y cierren las manos, pero incluso para eso,
+los problemas se presentan a la hora de lograr que los usuarios logren entender cómo funciona
+pero resolviendo esto, la idea podría desarrollarse mucho más rápido.
+
+
+29/04/2019
