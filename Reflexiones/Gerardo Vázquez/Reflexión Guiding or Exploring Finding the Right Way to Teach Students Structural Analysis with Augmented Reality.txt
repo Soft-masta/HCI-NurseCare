@@ -1,0 +1,24 @@
+El artículo nos comenta la idea, ya planteada en otros articulos, de utilizar
+la realidad aumentada para mejorar la experiencia de aprendizaje en los estudios,
+mas especificamente, la enseñanza de analisis estructural.
+
+Decidieron implementar un programa el cual mostraba las partes de un edificio relativas
+a la distribución de carga y estrés, esto con el fin de ayudar a los estudiantes a
+entender mejor los modelos graficos que en papel es más dificil de entender.
+
+Decidieron implementarlo en una Apple iPad de forma que los estudiantes tuvieran
+facilidad para interactuar en este entorno AR. Para ello tuvieron que agregar botones
+intuitivos y colores a las marcas de las distribuciones para poder diferenciarlos
+con mayor facilidad y manejar el modelo sin problemas. Esto demostró no ser suficiente
+o más bien no se logró que todos los usuarios lograran usar el programa sin problemas.
+Para remediar esto decidieron agregar un tutorial para le programa, cosa que demostró
+que habian fallado (o al menos no lograron al 100%) en lograr que los estudiantes
+pudieran interactuar con la herramienta mejor que en papel.
+
+De esto podemos aprender que la interacción entre el usuario y el programa debe estudiarse
+más a fondo para lograr resultados contundentes en los programas, especialmente en
+programas que serían usados por mucha gente, con un buen IHC hubieran podido lograr
+que hasta los estudiantes más novatos lograran entender el programa fácilmente.
+
+30/04/2019
+
